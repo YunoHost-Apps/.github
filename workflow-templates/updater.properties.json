@@ -1,0 +1,5 @@
+{
+    "name": "App package updater",
+    "description": "Check for new upstream releases and update the YunoHost package accordingly",
+    "iconName": "ynh_logo"
+}
